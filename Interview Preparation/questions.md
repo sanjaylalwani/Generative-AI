@@ -5,3 +5,5 @@
 5. What is Hallucination? Why Hallucination occurs?
 6. How can you evaluate and mitigate Hallucination?
 7. What is catastrophic forgetting in the context of LLMs?
+8. What is RAG? Why they are so important?
+9. What are some advanced techniques to imporvise RAG performance?
