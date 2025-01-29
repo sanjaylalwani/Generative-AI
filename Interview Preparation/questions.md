@@ -10,11 +10,14 @@
 10. What are the benefits of Retrieval-Augmented Generation?
 11. What are some advanced techniques to imporvise RAG performance?
 12. What are different LLM architectures?
-13. What is prompt engineering?
-14. What are different Prompting techniques?
-15. What is fine-tuning in LLMs?
-16. What is the need for fine tuning LLMs?
-17. What is the difference between fine tuning and training LLMs?
-18. What is PEFT LoRA in Fine tuning?
-19. What are SLMs (Small Language Models)?
-20. What are the benefits and drawbacks of SLMs?
+13. What is tokenization? What are different tokenization methods?
+14. Compare the word embeddings and sentence embeddings. How do their applications differ, and what considerations come into play when choosing between them?
+15. What is prompt engineering?
+16. What are different Prompting techniques?
+17. What is fine-tuning in LLMs?
+18. What is the need for fine tuning LLMs?
+19. What is the difference between fine tuning and training LLMs?
+20. What is PEFT LoRA in Fine tuning?
+21. What are SLMs (Small Language Models)?
+22. What are the benefits and drawbacks of SLMs?
+23. How do you optimize AI models to balance performance and computational cost in production systems?
