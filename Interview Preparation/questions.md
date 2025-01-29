@@ -4,3 +4,4 @@
 4. How and why are transformers better than RNN architectures?
 5. What is Hallucination? Why Hallucination occurs?
 6. How can you evaluate and mitigate Hallucination?
+7. What is catastrophic forgetting in the context of LLMs?
