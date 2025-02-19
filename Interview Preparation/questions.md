@@ -1,3 +1,8 @@
+### Basic of NLP
+1. What is Stemming?
+2. What is Lemmatization?
+3. Explain Byte Pair Encoding - Tokenization algorithm 
+
 ### Basic Generative AI 
 1. What is the difference between generative and discriminative models?
 2. What is catastrophic forgetting in the context of LLMs?
